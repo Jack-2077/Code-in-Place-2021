@@ -26,7 +26,7 @@ Anyone can use it for leaning Python or revising their basic concepts.
 
 ### Assignment Solution
 
-- Assignment-1 : (https://github.com/xiaowuc2/Code-in-Place-2021-Assignment-Solution/tree/main/Assignment-1)
+- Assignment-1 : (https://github.com/Jack-2077/Code-in-Place-2021/tree/main/Assignment-1)
 
 
 ### Contributing
