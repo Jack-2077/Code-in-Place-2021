@@ -26,7 +26,9 @@ Anyone can use it for leaning Python or revising their basic concepts.
 
 ### Assignment Solution
 
-- Assignment-1 : (https://github.com/Jack-2077/Code-in-Place-2021/tree/main/Assignment-1)
+- Assignment-1 : [Code](https://github.com/Jack-2077/Code-in-Place-2021/tree/main/Assignment-1)
+   - [2021.py](https://github.com/Jack-2077/Code-in-Place-2021/blob/main/Assignment-1/2021.py)
+   - [PuzzleKarel.py](https://github.com/Jack-2077/Code-in-Place-2021/blob/main/Assignment-1/PuzzleKarel.py)
 
 
 ### Contributing
