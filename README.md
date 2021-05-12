@@ -37,10 +37,5 @@ Any kind of contributions to `Jack-2077/Code-in-Place-2021` are welcome. While c
 2. Commit your Changes
 3. Open a [Pull Request](https://github.com/Jack-2077/Code-in-Place-2021/pulls)
 
-### README
-```
-✔️ If you think this repository has helped you learn something new you can give a star ⭐ 
-❌ If you think it's a bad project do point out 'why' and spam the issue section 🚩 
-```
 
 
