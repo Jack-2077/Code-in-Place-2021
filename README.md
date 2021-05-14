@@ -33,6 +33,7 @@ Anyone can use it for leaning Python or revising their basic concepts.
    - [CleanupKarel.py](https://github.com/Jack-2077/Code-in-Place-2021/blob/main/Assignment-1/CleanupKarel.py)
    - [RampClimbingKarel.py](https://github.com/Jack-2077/Code-in-Place-2021/blob/main/Assignment-1/RampClimbingKarel.py)
    - [StoneMasonKarel.py](https://github.com/Jack-2077/Code-in-Place-2021/blob/main/Assignment-1/StoneMasonKarel.py)
+   - [Midpoint.py](https://github.com/Jack-2077/Code-in-Place-2021/blob/main/Assignment-1/Midpoint.py)
 
 ### Contributing
 
